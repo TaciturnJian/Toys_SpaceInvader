@@ -1,0 +1,5 @@
+﻿  Program.c
+D:\SangoProjects\TEST\SpaceInvader2\Program.c(25,9): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\SangoProjects\TEST\SpaceInvader2\Program.c(70,1): warning C4102: “GameRunning”: 未引用的标签
+D:\SangoProjects\TEST\SpaceInvader2\Program.c(302,1): warning C4102: “GameOver”: 未引用的标签
+  SpaceInvader2.vcxproj -> D:\SangoProjects\TEST\x64\Debug\SpaceInvader2.exe
